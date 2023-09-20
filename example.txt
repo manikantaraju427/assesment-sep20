@@ -1,0 +1,3 @@
+Hello, this is my first project!
+I'm learning how to create and edit files in Git Bash.
+
