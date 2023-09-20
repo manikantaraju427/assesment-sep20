@@ -11,8 +11,11 @@ Task 3: Describe how to use Git branches and pull requests to work on the issue,
 
 
 ###first i created one repository on git hub  ###
+
 repo name: assesment-sep20
+
 cloned into my local ubuntu server 
+
 $git clone (https://github.com/manikantaraju427/assesment-sep20.git) #http code from my repository
 
 ### open one 
