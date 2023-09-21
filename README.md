@@ -10,7 +10,7 @@ Task 3: Describe how to use Git branches and pull requests to work on the issue,
 ###
 
 
-###first i created one repository on git hub  ###
+### first i created one repository on git hub  ###
 
 repo name: assesment-sep20
 
