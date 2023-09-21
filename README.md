@@ -12,7 +12,7 @@ Task 3: Describe how to use Git branches and pull requests to work on the issue,
 
 ### first i created one repository on git hub  ###
 
-repo name: assesment-sep20
+repo name: assesment-sep20-guvi
 
 cloned into my local ubuntu server 
 
@@ -33,7 +33,7 @@ my file pushed into git hub
 -> Log In to the Issue Tracking System
 -> Navigate to the project repository where you want to create the issue.
 
-###  Create a New Issue ###
+###  Created a New Issue ###
 
  Click on the "New Issue" button to start creating a new issue.
 
@@ -41,19 +41,20 @@ filled all the details
 
 Click the "Submit new issue" button to create the issue.
 
-### tep 2: Assign the Issue ###
+### tep 2: Assignd the Issue ###
 
-in the right sidebar, under the "Assignees" section, click on the "Assign yourself" button to assign the issue to myself ( in this case iam only contributor that why i selected my self )
+in the right sidebar, under the "Assignees" section, click on the "Assign yourself" button to assign the issue to myself  # ( in this case iam only contributor that why i selected my self ) #
+
 
 ### Task 3: Using Git Branches and Pull Requests ###
 
-Create a New Git Branch
+Created a New Git Branch
 
 $issue-1 
 
 $git checkout issue-1
 
-modify the code in the file
+modified the code in the file
 
 $git add .
 
